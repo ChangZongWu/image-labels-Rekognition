@@ -5,7 +5,7 @@ bucket using Amazon Rekognition. Displays bounding boxes for detected
 objects.
 
 ## Architecture Flow
-
+![Architecture Diagram](assets/aws_rekognition_architecture.png)
 1)  Upload image to S3\
 2)  Rekognition DetectLabels\
 3)  Python processes response\
