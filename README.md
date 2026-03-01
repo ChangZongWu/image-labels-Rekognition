@@ -47,10 +47,12 @@ Edit rekognition_labels.py: bucket = "your-bucket-name" photo =
 "your-image.jpg"
 
 Run: python rekognition_labels.py
-
+![Result Picture](assets/Figure_1.png)
 ## Project Structure
 
-. ├─ rekognition_labels.py ├─ requirements.txt ├─ README.md └─
+.rekognition_labels.py
+.requirements.txt
+.README.md
 .gitignore
 
 ## Notes
